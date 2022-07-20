@@ -1,0 +1,16 @@
+{
+  "name": "wmGPA",
+  "version": "1.0.0",
+  "description": "Code platoon tutorial on Objects, Arrays and Loops",
+  "main": "index.js",
+  "repository": "git@github.com:trentonknight/wmGPA.git",
+  "author": "trentonknight <trentonknight@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.0.1",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-promise": "^6.0.0"
+  }
+}
